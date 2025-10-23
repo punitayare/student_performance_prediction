@@ -43,9 +43,9 @@ Basically, it’s about checking if features are “too similar” to each other
 
 ## 6. Difference between simple and multiple regression
 - **Simple regression:** Only **one feature** predicts the target.  
-  Example: `Price = β0 + β1*Area`  
+ 
 - **Multiple regression:** Uses **two or more features**.  
-  Example: `Price = β0 + β1*Area + β2*Bedrooms + β3*Bathrooms`  
+  
 - Multiple regression helps capture more complex relationships.
 
 ---
